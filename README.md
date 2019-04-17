@@ -17,3 +17,8 @@ https://www.red-gate.com/simple-talk/dotnet/net-development/using-c-to-create-po
 
 About topics cover a ranges of concepts about PowerShell.
 https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/?view=powershell-6
+
+
+Certificate signing
+https://www.sysadmins.lv/blog-en/self-signed-certificate-creation-with-powershell.aspx
+https://medium.com/the-new-control-plane/generating-self-signed-certificates-on-windows-7812a600c2d8
